@@ -18,7 +18,7 @@ pip install streamlit ultralytics pillow
 
 
 # 3) Run the app
-streamlit run dashboard/app.py
+streamlit run app.py
 
 # 4) Update requirements when installed new packages
 pip freeze > requirements.txt
